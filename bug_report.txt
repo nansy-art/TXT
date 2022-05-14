@@ -1,1 +1,9 @@
-
+  1) name:"the Send button is not clickable"
+  2) priority:high
+  3) environment:Android 10, Chrome 100.2
+  4) step1:open messenger
+  5) step2:open a conversation with user c helen12
+  6) step3:write any message
+  7) step4:click the send button
+  8) expected result:"the message has been sent
+  9) actual result:"the Send button is not clickable
